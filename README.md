@@ -2,9 +2,12 @@
 
 ## Sobre mim
 
-Atualmente estou em transição de carreira para a área de tecnologia. Tenho me dedicado bastante e focado nos estudos de desenvolvimento de software, com o objetivo de conseguir minha primeira oportunidade como desenvolvedor e construir uma carreira sólida na área de tecnologia.
+Sou estudante de Técnico em Desenvolvimento de Sistemas no Senac, em transição de carreira para a área de tecnologia, com foco em desenvolvimento backend.
 
-Estou constantemente aprendendo novas linguagens e ferramentas, participando de projetos práticos e buscando evoluir a cada dia.
+Atualmente, estou desenvolvendo minhas habilidades em Java e SQL por meio de projetos práticos e atividades acadêmicas. Tenho interesse em desenvolvimento de software, resolução de problemas e construção de aplicações backend.
+
+Meu objetivo é aprofundar meus conhecimentos, desenvolver projetos que demonstrem minhas habilidades e conquistar minha primeira oportunidade profissional como desenvolvedor.
+
 
 ## Contatos
 
